@@ -1,0 +1,25 @@
+{
+  "name": "auto_generation",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2",
+    "body-parser": "^1.19.0",
+    "config": "^3.3.1",
+    "core-util-is": "^1.0.2",
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "faker": "^4.1.0",
+    "pg": "7.18.2",
+    "terser": "^4.6.10"
+  },
+  "devDependencies": {},
+  "description": ""
+}

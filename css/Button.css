@@ -1,0 +1,22 @@
+.button{
+    background: linear-gradient(rgba(99, 49, 19, 0.5), rgba(76, 47, 64, 0.35)); /* Синий цвет фона */
+    color: black; /* Белые буквы */
+    width: 200px;
+    height: 200px;
+    font-size: 40px;
+    float:left;
+    margin:0 10px;
+}
+
+.img{
+    vertical-align: middle;
+    width: 70px;
+    height: 70px;
+}
+
+.imgStaff{
+    vertical-align: middle;
+    width: 90px;
+    height: 90px;
+}
+

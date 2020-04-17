@@ -1,0 +1,25 @@
+{
+  "username" : "root1",
+  "password" : "foot",
+  "startProduction": 10,
+  "endProduction": 1000000,
+  "randomQuantity": 100,
+  "randomPriceStart": 50,
+  "randomPriceEnd": 10000,
+  "randomQuantityStart": 1,
+  "randomQuantityEnd": 100,
+  "randomDescrStart": 10,
+  "randomDescrEnd": 900,
+  "randomQuantityProduct": 10000,
+  "priceDifference": 10,
+  "salaryStart": 12130,
+  "salaryEnd": 100000,
+  "passportData": 9,
+  "randomNumberInvoice": 2000,
+  "randomPriceStartSupply": 100,
+  "randomPriceEndSupply": 10000,
+  "randomQuantitySupply": 10000,
+  "idUnitStart": 1,
+  "idUnitEnd": 3
+
+}
