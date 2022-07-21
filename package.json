@@ -18,7 +18,7 @@
     "express": "^4.17.1",
     "faker": "^4.1.0",
     "pg": "7.18.2",
-    "terser": "^4.6.10"
+    "terser": "^4.8.1"
   },
   "devDependencies": {},
   "description": ""
